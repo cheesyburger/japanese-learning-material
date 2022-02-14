@@ -2,17 +2,21 @@
 
 This serves as a hub of keeping all japanese learning material
 
-
 ## Tools 
 - [quizlet](https://quizlet.com)
 a flash card learning tool. You can create flash card by importing csv, google docs, MS files etc. 
 
 - [Google Translate](https://translate.google.com) 
-do I need further indroduction? 
+do I need further introduction? 
 
-# Vocabulary 
+## Characters
+Japanese language has 3 types of characters: Hiragana, Katahana, and Kanji. 
+
+![Hiragana (From Wikipedia)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Table_hiragana.svg/1152px-Table_hiragana.svg.png)
+
+## Vocabulary 
 - [Japanese For Busy People Learning Supplement](https://www.ajalt.org/sfyj/)
-Numbers, Telephone, Counters, Calendar, Time, Money, Verbs, Adjectives, Family
+Numbers, Telephone, Counters, Calendar, Time, Money, Verbs, Adjectives, Family 
 
 ## News Reading for foreign learners
 - [NHK News Web Easy](https://www3.nhk.or.jp/news/easy/)
