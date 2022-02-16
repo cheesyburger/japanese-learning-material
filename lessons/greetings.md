@@ -14,4 +14,4 @@
 |よろしく		|Nice to meet you|
 
 
-[よろしく has multiple meanings depending on the context](https://www.wasabi-jpn.com/how-to-speak-japanese/complete-explanation-what-does-yoroshiku-mean/)
+- [よろしく has multiple meanings depending on the context](https://www.wasabi-jpn.com/how-to-speak-japanese/complete-explanation-what-does-yoroshiku-mean/)
