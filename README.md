@@ -16,8 +16,14 @@ A flash card learning tool. Support import via CSV, Google Sheets, Microsoft Exc
 - [Google Translate](https://translate.google.com) 
 Do I need further introduction? 
 
+- [goo辞書] (https://dictionary.goo.ne.jp/) 
+Online Japanese Dictionary
+
+- [duolingo Japense-English Translation] (https://www.duolingo.com/dictionary/Japanese/)
+Simple translation from Japanese to English 
+
 - [五十音輕鬆學！(iOS) (Chinese)](https://apps.apple.com/hk/app/%E4%BA%94%E5%8D%81%E9%9F%B3%E8%BC%95%E9%AC%86%E5%AD%B8/id953946449)\
-an iOS app for learning Japanese characters designed for Chinese speakers
+An iOS app for learning Japanese characters designed for Chinese speakers
 
 ## Characters
 Japanese language has 3 types of characters: Hiragana (平仮名), Katakana (片仮名), and Kanji (漢字). 
@@ -28,7 +34,6 @@ Most learning material does not contain,
 - ヰ(wi) and ネ(we) in Katakana 
 
 As they are extrememly rare in modern Japanese. 
-
 
 ### Hiragana (平仮名)
 ![Hiragana (From Wikipedia)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Table_hiragana.svg/1152px-Table_hiragana.svg.png)
@@ -44,4 +49,4 @@ According to Wiki, "Kanji are a set of logographic characters from Chinese scrip
 Numbers, Telephone, Counters, Calendar, Time, Money, Verbs, Adjectives, Family. 
 
 ## News Reading for foreign learners
-- [NHK News Web Easy](https://www3.nhk.or.jp/news/easy/)
+- [NHK News Web Easy](https://www3.nhk.or.jp/news/easy/) - News service as a resource for learning Japanese
