@@ -16,10 +16,10 @@ A flash card learning tool. Support import via CSV, Google Sheets, Microsoft Exc
 - [Google Translate](https://translate.google.com) 
 Do I need further introduction? 
 
-- [goo辞書] (https://dictionary.goo.ne.jp/) 
+- [goo辞書](https://dictionary.goo.ne.jp/) 
 Online Japanese Dictionary
 
-- [duolingo Japense-English Translation] (https://www.duolingo.com/dictionary/Japanese/)
+- [duolingo Japense-English Translation](https://www.duolingo.com/dictionary/Japanese/)
 Simple translation from Japanese to English 
 
 - [五十音輕鬆學！(iOS) (Chinese)](https://apps.apple.com/hk/app/%E4%BA%94%E5%8D%81%E9%9F%B3%E8%BC%95%E9%AC%86%E5%AD%B8/id953946449)\
