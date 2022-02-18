@@ -25,6 +25,16 @@ Simple translation from Japanese to English
 - [五十音輕鬆學！(iOS) (Chinese)](https://apps.apple.com/hk/app/%E4%BA%94%E5%8D%81%E9%9F%B3%E8%BC%95%E9%AC%86%E5%AD%B8/id953946449)\
 An iOS app for learning Japanese characters designed for Chinese speakers
 
+## Typing 
+
+- [HOW TO INSTALL A JAPANESE KEYBOARD
+ON APPLE, WINDOWS, COMPUTERS, PHONES, YOU NAME IT!](https://www.tofugu.com/japanese/how-to-install-japanese-keyboard/)
+
+### Remarks 
+
+- type nn for ん/ン
+- type the double character for Sokuon (促音). e.g. nipponn for にっぽん(日本)
+
 ## Characters
 Japanese language has 3 types of characters: Hiragana (平仮名), Katakana (片仮名), and Kanji (漢字). 
 
