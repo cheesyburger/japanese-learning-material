@@ -3,11 +3,20 @@
 This serves as a hub of keeping Japanese learning material
 
 ## Index 
-- [Tools](#Tools)
-- [Characters](#Characters)
-- [Vocabulary](#Vocabulary)
-- [New reading for foreign learners](#New-reading-for-foreign-learners)
+- [First thing first](#first-thing-first)
+- [Tools](#tools)
+- [Typing](#typing)
+- [Characters](#characters)
+- [Vocabulary](#vocabulary)
+- [New reading for foreign learners](#new-reading-for-foreign-learners)
 
+
+## First thing first 
+
+You may need some guidance on how to approach a new language. Everyone should be different based on one's strength, and below are some road maps for reference. 
+
+- [Learn Japanese via tofugu.com](https://www.tofugu.com/learn-japanese/) The road map of Japanese Learning. It's a good reference if you learn it yourself instead of taking classes. 
+- [Nihongo Road Map – 日本語学習の流れ](https://sakuratips.com/2021/06/06/roadmap/) A road map shared by a Japanese teacher. The site is still in construction, and you can track the progress via the [reddit post](https://www.reddit.com/r/LearnJapanese/comments/q57v5n/making_the_japanese_learning_roadmap/).s
 
 ## Tools 
 - [quizlet](https://quizlet.com)
@@ -32,8 +41,10 @@ ON APPLE, WINDOWS, COMPUTERS, PHONES, YOU NAME IT!](https://www.tofugu.com/japan
 
 ### Remarks 
 
-- type nn for ん/ン
-- type the double character for Sokuon (促音). e.g. nipponn for にっぽん(日本)
+- Type nn for ん/ン
+- Sokuon (促音)
+    - type the double character. e.g. nipponn for にっぽん(日本)
+    - type x before the character. e.g. xtsu for っ
 
 ## Characters
 Japanese language has 3 types of characters: Hiragana (平仮名), Katakana (片仮名), and Kanji (漢字). 
@@ -44,6 +55,8 @@ Most learning material does not contain,
 - ヰ(wi) and ネ(we) in Katakana 
 
 As they are extrememly rare in modern Japanese. 
+
+- [Copy Book](http://japanese-lesson.com/resources/pdf/characters/hiragana_writing_practice_sheets.pdf)
 
 ### Hiragana (平仮名)
 ![Hiragana (From Wikipedia)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Table_hiragana.svg/1152px-Table_hiragana.svg.png)
