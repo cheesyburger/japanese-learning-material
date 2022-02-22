@@ -4,19 +4,24 @@ This serves as a hub of keeping Japanese learning material
 
 ## Index 
 - [First thing first](#first-thing-first)
+- [Certification](#certification)
 - [Tools](#tools)
 - [Typing](#typing)
 - [Characters](#characters)
 - [Vocabulary](#vocabulary)
 - [New reading for foreign learners](#new-reading-for-foreign-learners)
 
-
 ## First thing first 
 
 You may need some guidance on how to approach a new language. Everyone should be different based on one's strength, and below are some road maps for reference. 
 
 - [Learn Japanese via tofugu.com](https://www.tofugu.com/learn-japanese/) The road map of Japanese Learning. It's a good reference if you learn it yourself instead of taking classes. 
-- [Nihongo Road Map – 日本語学習の流れ](https://sakuratips.com/2021/06/06/roadmap/) A road map shared by a Japanese teacher. The site is still in construction, and you can track the progress via the [reddit post](https://www.reddit.com/r/LearnJapanese/comments/q57v5n/making_the_japanese_learning_roadmap/).s
+- [Nihongo Road Map – 日本語学習の流れ](https://sakuratips.com/2021/06/06/roadmap/) A road map shared by a Japanese teacher. The site is still in construction, and you can track the progress via the [reddit post](https://www.reddit.com/r/LearnJapanese/comments/q57v5n/making_the_japanese_learning_roadmap/).
+
+## Certification
+
+- [Comparison of JLPT and CEFP](https://japanese.jp-sji.org/eng/course/level/) A rough comparison of Japnese language certification between Japanese-Language Proficiency Test (JLPT) and Common European Framework of Reference for Language (CEFT). You can use this as reference of understanding your japanese level or choosing a class.  
+- [Beyond the JLPT: all about Japanese language tests for learners](https://gogonihon.com/en/blog/japanese-language-tests/) Other Japanese language certifications you may consider
 
 ## Tools 
 - [quizlet](https://quizlet.com)
@@ -57,6 +62,7 @@ Most learning material does not contain,
 As they are extrememly rare in modern Japanese. 
 
 - [Copy Book](http://japanese-lesson.com/resources/pdf/characters/hiragana_writing_practice_sheets.pdf)
+- [Character List](https://www.nhk.or.jp/lesson/en/letters/hiragana.html) Hirangana and Katakana Tables with stroke orders and pronounications
 
 ### Hiragana (平仮名)
 ![Hiragana (From Wikipedia)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Table_hiragana.svg/1152px-Table_hiragana.svg.png)
