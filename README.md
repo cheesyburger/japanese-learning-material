@@ -55,7 +55,7 @@ ON APPLE, WINDOWS, COMPUTERS, PHONES, YOU NAME IT!](https://www.tofugu.com/japan
 
 Japanese language has 3 types of characters: Hiragana (平仮名), Katakana (片仮名), and Kanji (漢字). 
 
-For Hiragana and Katankana, go to [Characters](/lessons/characters). 
+For Hiragana and Katankana, go to [Characters](/lessons/characters.md). 
 
 ### Kanji (漢字)
 According to Wiki, "Kanji are a set of logographic characters from Chinese script which forms a major part of the Japanese writing system alongside with Japanese syllabic scripts hiragana and katakana".
