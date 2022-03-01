@@ -52,23 +52,10 @@ ON APPLE, WINDOWS, COMPUTERS, PHONES, YOU NAME IT!](https://www.tofugu.com/japan
     - type x before the character. e.g. xtsu for っ
 
 ## Characters
+
 Japanese language has 3 types of characters: Hiragana (平仮名), Katakana (片仮名), and Kanji (漢字). 
 
-Most learning material does not contain,  
-
-- ゐ(wi) and ゑ(we) in Hiragana 
-- ヰ(wi) and ネ(we) in Katakana 
-
-As they are extrememly rare in modern Japanese. 
-
-- [Copy Book](http://japanese-lesson.com/resources/pdf/characters/hiragana_writing_practice_sheets.pdf)
-- [Character List](https://www.nhk.or.jp/lesson/en/letters/hiragana.html) Hirangana and Katakana Tables with stroke orders and pronounications
-
-### Hiragana (平仮名)
-![Hiragana (From Wikipedia)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Table_hiragana.svg/1152px-Table_hiragana.svg.png)
-
-### Katakana (片仮名)
-![Katakana (From Wikipedia)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Table_katakana.svg/1152px-Table_katakana.svg.png)
+For Hiragana and Katankana, go to [Characters](#lessons/charcters). 
 
 ### Kanji (漢字)
 According to Wiki, "Kanji are a set of logographic characters from Chinese script which forms a major part of the Japanese writing system alongside with Japanese syllabic scripts hiragana and katakana".
@@ -79,3 +66,7 @@ Numbers, Telephone, Counters, Calendar, Time, Money, Verbs, Adjectives, Family.
 
 ## News Reading for foreign learners
 - [NHK News Web Easy](https://www3.nhk.or.jp/news/easy/) - News service as a resource for learning Japanese
+
+## Online courses
+- [japnesepod101](https://www.japanesepod101.com/) - Japanese online course with free and premium material
+- [Rosetta Stone](https://www.rosettastone.com/) - Online language learning courses 
