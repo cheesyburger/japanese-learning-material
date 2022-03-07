@@ -13,7 +13,7 @@
 |どうぞ			|Please, Here you go, Go ahead|
 |よろしく			|Nice to meet you|
 |はじめまして。<br />(初めまして。)	|Nice to meet you (first time)|
-|から ~ きました。<br />(から ~ 来ました。)　|I am from ~ |
+|~から きました。<br />(~から 来ました。)　|I am from ~ |
 |どうぞよろしく　おねがいします。<br />(どうぞよろしく　お願いします。)|Nice to meet you (after introducing yourself)|
 |しつれいですが。<br />(失礼ですか。)|Excuse me for asking|
 |おなまえは？<br />(お名前は？)|What is your name?|
