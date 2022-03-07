@@ -70,7 +70,7 @@ Numbers, Telephone, Counters, Calendar, Time, Money, Verbs, Adjectives, Family.
 
 ## Reading for foreign learners
 - [NHK News Web Easy](https://www3.nhk.or.jp/news/easy/) - News service as a resource for learning Japanese
-- [takodu](https://tadoku.org/japanese/en/free-books-en/) - Free simple picture books for Japanese learners. Avaiable online, pdf and other formats. ==N5==
+- [takodu](https://tadoku.org/japanese/en/free-books-en/) - Free simple picture books for Japanese learners. Avaiable online, pdf and other formats. 'N5'
 - [Hukumusume  fiarytale collection](http://hukumusume.com/douwa/English/index.html) - Traditional Jpanese children's stories in both English and Japanese vith audio tracks.
 - [Crunchy Nihongo!](https://crunchynihongo.com/hiragana-reading-practice/) - Japanese reading pracitice in hiragana only. As the site suggests, "treat these pages only as a reading practice and not as a lesson to learn Japanese". As the site owner explains, "just try to read the hiragana correctly since understanding the meaning of a sentence require more knowledge in Japanese grammar and is an entirely different skill set than what you want to achieve now, which is to read Hiragana & lock them up in you long term memory."
 
