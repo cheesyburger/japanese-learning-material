@@ -23,6 +23,10 @@ You may need some guidance on how to approach a new language. Everyone should be
 - [Comparison of JLPT and CEFP](https://japanese.jp-sji.org/eng/course/level/) A rough comparison of Japnese language certification between Japanese-Language Proficiency Test (JLPT) and Common European Framework of Reference for Language (CEFT). You can use this as reference of understanding your japanese level or choosing a class.  
 - [Beyond the JLPT: all about Japanese language tests for learners](https://gogonihon.com/en/blog/japanese-language-tests/) Other Japanese language certifications you may consider
 
+- [JLPT - Instruction of taking the test overseas](https://www.jlpt.jp/e/application/overseas_index.html)
+	- [JLPT - List of Overseas test Site Cities and Local Host Institutions](https://www.jlpt.jp/e/application/overseas_list.html)
+		- [Hong Kong](https://www.japanese-edu.org.hk/jp/jlpt/en/news.html)
+
 ## Tools 
 - [quizlet](https://quizlet.com)
 A flash card learning tool. Support import via CSV, Google Sheets, Microsoft Excel files etc. 
@@ -64,8 +68,13 @@ According to Wiki, "Kanji are a set of logographic characters from Chinese scrip
 - [Japanese For Busy People Learning Supplement](https://www.ajalt.org/sfyj/)
 Numbers, Telephone, Counters, Calendar, Time, Money, Verbs, Adjectives, Family. 
 
-## News Reading for foreign learners
+## Reading for foreign learners
 - [NHK News Web Easy](https://www3.nhk.or.jp/news/easy/) - News service as a resource for learning Japanese
+- [takodu](https://tadoku.org/japanese/en/free-books-en/) - Free simple picture books for Japanese learners. Avaiable online, pdf and other formats. 
+- [Hukumusume  fiarytale collection](http://hukumusume.com/douwa/English/index.html) - Traditional Jpanese children's stories in both English and Japanese vith audio tracks.
+- [Crunchy Nihongo!](https://crunchynihongo.com/hiragana-reading-practice/) - Japanese reading pracitice in hiragana only. As the site suggests, "treat these pages only as a reading practice and not as a lesson to learn Japanese". As the site owner explains, "just try to read the hiragana correctly since understanding the meaning of a sentence require more knowledge in Japanese grammar and is an entirely different skill set than what you want to achieve now, which is to read Hiragana & lock them up in you long term memory."
+
+[More on teamjapanese.com](https://teamjapanese.com/free-websites-japanese-reading-practice-every-level/?utm_source=pocket_mylist)
 
 ## Online courses
 - [japnesepod101](https://www.japanesepod101.com/) - Japanese online course with free and premium material
