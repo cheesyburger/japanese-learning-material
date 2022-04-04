@@ -3,20 +3,40 @@
 This serves as a hub of keeping Japanese learning material
 
 ## Index 
-- [First thing first](#first-thing-first)
+- [Road Map] (#road-map)
 - [Certification](#certification)
 - [Tools](#tools)
-- [Typing](#typing)
-- [Characters](#characters)
-- [Vocabulary](#vocabulary)
 - [New reading for foreign learners](#new-reading-for-foreign-learners)
 
-## First thing first 
+## Road Map
 
-You may need some guidance on how to approach a new language. Everyone should be different based on one's strength, and below are some road maps for reference. 
+- [Learn Japanese via tofugu.com](https://www.tofugu.com/learn-japanese/) The suggested road map of Japanese Learning by tofugu.com. 
+	1. Zero Knowledge of Japanese
+		- Learn to Read Hiragana
+		- Basic Japanese Pronunciation
+		- Learning to Type Hiragana in Japanese
+		- Understanding the Concept of "Kanji"
+		- Beginning Kanji & Stockpiling Kanji Knowledge
+		- Learn to Read Katakana
+		- Learning to Type Katakana
+		- Learning to Type Kanji
+	2. The Beginner of Japanese
+		- Using a Spaced Repetition System For Vocabulary
+			1. Collecting Vocabulary
+			2. Processing
+			3. Adding the Words to Your SRS
+		- Beginning Japanese Grammar
+		- A Beginner's Japanese Textbook / Program
+		- Answering Your Japanese Language Questions
+		- Alternative: Learning Japanese Grammar On Your Own
+			- Order of Learning
+			- Fact Checking / Cross Referencing
+			- Do the Work
+			- Sometimes, You'll Just Get Stuck
+		- Optional: Finding A Japanese Language Tutor
+		- Suggested Books and Resources
+	3. Intermediate Level Japanese
 
-- [Learn Japanese via tofugu.com](https://www.tofugu.com/learn-japanese/) The road map of Japanese Learning. It's a good reference if you learn it yourself instead of taking classes. 
-- [Nihongo Road Map – 日本語学習の流れ](https://sakuratips.com/2021/06/06/roadmap/) A road map shared by a Japanese teacher. The site is still in construction, and you can track the progress via the [reddit post](https://www.reddit.com/r/LearnJapanese/comments/q57v5n/making_the_japanese_learning_roadmap/).
 
 ## Certification
 
@@ -41,39 +61,11 @@ Online Japanese Dictionary
 - [duolingo Japense-English Translation](https://www.duolingo.com/dictionary/Japanese/)
 Simple translation from Japanese to English 
 
-- [五十音輕鬆學！(iOS) (Chinese)](https://apps.apple.com/hk/app/%E4%BA%94%E5%8D%81%E9%9F%B3%E8%BC%95%E9%AC%86%E5%AD%B8/id953946449)\
+- [五十音輕鬆學！(iOS) (Chinese)](https://apps.apple.com/hk/app/%E4%BA%94%E5%8D%81%E9%9F%B3%E8%BC%95%E9%AC%86%E5%AD%B8/id953946449)
 An iOS app for learning Japanese characters designed for Chinese speakers
-
-## Typing 
-
-- [HOW TO INSTALL A JAPANESE KEYBOARD
-ON APPLE, WINDOWS, COMPUTERS, PHONES, YOU NAME IT!](https://www.tofugu.com/japanese/how-to-install-japanese-keyboard/)
-
-### Remarks 
-
-- Type nn for ん/ン
-- Sokuon (促音)
-    - type the double character. e.g. nipponn for にっぽん(日本)
-    - type x before the character. e.g. xtsu for っ
-
-## Characters
-
-Japanese language has 3 types of characters: Hiragana (平仮名), Katakana (片仮名), and Kanji (漢字). 
-
-For Hiragana and Katankana, go to [Characters](/lessons/characters.md). 
-
-### Kanji (漢字)
-According to Wiki, "Kanji are a set of logographic characters from Chinese script which forms a major part of the Japanese writing system alongside with Japanese syllabic scripts hiragana and katakana".
-
-## Vocabulary 
-- [Japanese For Busy People Learning Supplement](https://www.ajalt.org/sfyj/)
-Numbers, Telephone, Counters, Calendar, Time, Money, Verbs, Adjectives, Family. 
 
 ## Reading for foreign learners
 - [NHK News Web Easy](https://www3.nhk.or.jp/news/easy/) - News service as a resource for learning Japanese
-- [takodu](https://tadoku.org/japanese/en/free-books-en/) - Free simple picture books for Japanese learners. Avaiable online, pdf and other formats. `N5`
-- [Hukumusume  fiarytale collection](http://hukumusume.com/douwa/English/index.html) - Traditional Jpanese children's stories in both English and Japanese vith audio tracks. `N5`
-- [Crunchy Nihongo!](https://crunchynihongo.com/hiragana-reading-practice/) - Japanese reading pracitice in hiragana only. As the site suggests, "treat these pages only as a reading practice and not as a lesson to learn Japanese". As the site owner explains, "just try to read the hiragana correctly since understanding the meaning of a sentence require more knowledge in Japanese grammar and is an entirely different skill set than what you want to achieve now, which is to read Hiragana & lock them up in you long term memory." `N5`
 
 [More on teamjapanese.com](https://teamjapanese.com/free-websites-japanese-reading-practice-every-level/?utm_source=pocket_mylist)
 
